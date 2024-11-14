@@ -1,0 +1,32 @@
+[
+    {
+        "nume": "Televizor Samsung 50 inch",
+        "categorie": "Electronice",
+        "pret": 2500,
+        "in_stoc": true
+    },
+    {
+        "nume": "Canapea extensibila",
+        "categorie": "Mobilier",
+        "pret": 1200,
+        "in_stoc": false
+    },
+    {
+        "nume": "Laptop ASUS",
+        "categorie": "Electronice",
+        "pret": 3500,
+        "in_stoc": true
+    },
+    {
+        "nume": "Frigider LG",
+        "categorie": "Electrocasnice",
+        "pret": 1800,
+        "in_stoc": true
+    },
+    {
+        "nume": "Scaun ergonomic",
+        "categorie": "Mobilier",
+        "pret": 450,
+        "in_stoc": true
+    }
+]
