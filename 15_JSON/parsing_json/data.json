@@ -1,0 +1,17 @@
+[
+    {
+        "nume": "Ion Popescu",
+        "varsta": 30,
+        "email": "ion.popescu@example.com"
+    },
+    {
+        "nume": "Maria Ionescu",
+        "varsta": 25,
+        "email": "maria.ionescu@example.com"
+    },
+    {
+        "nume": "Alex Vasilescu",
+        "varsta": 35,
+        "email": "alex.vasilescu@example.com"
+    }
+]
